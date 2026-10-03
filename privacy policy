@@ -1,0 +1,58 @@
+Since you are only using **Google Ads (AdMob)** and no Firebase, your policy needs to be very specific about how Google handles user data for advertising purposes. Even if you don't "collect" data personally, the Google Ads SDK automatically collects certain identifiers to show ads.
+
+Here is a privacy policy tailored specifically for **BharatMetro** with Google Ads and compliance with India’s **DPDP Act**.
+
+---
+
+## BharatMetro: Privacy Policy
+
+**Last Updated:** February 28, 2026
+
+**BharatMetro** ("we," "us," or "our") provides metro route and fare information. This Privacy Policy describes how we handle information in our mobile application. By using BharatMetro, you agree to the practices described here.
+
+### 1. Information Collected Automatically (Third-Party)
+
+We do not require users to create an account or provide personal names or emails. However, our app uses the **Google Mobile Ads SDK (AdMob)**, which automatically collects certain information to serve and personalize advertisements:
+
+* **Device Identifiers:** Such as the Android Advertising ID (GAID).
+* **Approximate Location:** Derived from IP addresses to show locally relevant ads.
+* **App Interactions:** Data about how you interact with ads (e.g., clicks or views).
+* **Device Info:** Device model, OS version, and network provider.
+
+### 2. Permissions We Use
+
+* **Location Access:** If you grant location permission, we use it strictly to show you the nearest metro stations. This data is processed on-device or used via Google Maps API and is **not** stored on any private servers.
+* **Internet Access:** Required to fetch updated metro routes, fare data, and load advertisements.
+
+### 3. How Data is Used
+
+Data collected by Google Ads is used for:
+
+* **Ad Personalization:** Showing ads that are relevant to your interests.
+* **Analytics:** Measuring the performance of our app and ad campaigns.
+* **Fraud Prevention:** Detecting and preventing invalid clicks or malicious activity.
+
+### 4. Third-Party Links & Services
+
+Our app contains advertisements from Google. When you click an ad, you may be directed to a third-party website or app. We are not responsible for the privacy practices of these third parties. We recommend reviewing the **[Google Privacy & Terms](https://policies.google.com/privacy)**.
+
+### 5. Data Security
+
+We do not maintain a database of your personal information. All communication between the app and the route/fare servers is encrypted via **HTTPS (SSL/TLS)** to ensure data safety during transit.
+
+### 6. Your Rights & Choices
+
+* **Opt-out of Personalized Ads:** You can opt-out by going to your Android device's **Settings > Privacy > Ads** and selecting "Delete Advertising ID" or "Reset Advertising ID."
+* **Location Permissions:** You can enable or disable location access at any time through your device settings.
+* **Indian DPDP Act Rights:** Under the Digital Personal Data Protection Act, you have the right to request information about the data processed. Since we use only Google Ads, you can manage your data directly through your Google Account privacy settings.
+
+### 7. Children's Privacy
+
+BharatMetro is a general utility app. We do not knowingly collect data from children under 18. Our ads are served by Google, which provides tools to limit ad tracking for minor users.
+
+### 8. Contact Information
+
+For any questions regarding this policy, please contact us:
+
+* **Email:** financlyindia@gmail.com  
+* **Developer:** Aditya
