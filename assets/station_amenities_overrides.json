@@ -1,0 +1,366 @@
+{
+  "rajiv chowk": {
+    "gates": [
+      "Gate 1: Radial Road 3, Panchkuian Road, B Block, Minto Road",
+      "Gate 2: PVR Plaza, Connaught Place",
+      "Gate 3: D Block, Carnival Cinema (Odeon)",
+      "Gate 4: E Block, Barakhamba Road & Kasturba Gandhi Road",
+      "Gate 5: Radial Road 1, Janpath Road, F Block",
+      "Gate 6: Janpath Road, Palika Bazaar",
+      "Gate 7: Baba Kharak Singh Marg, A Block, Inner Circle",
+      "Gate 8: Radial Road 3, Panchkuian Road, A Block"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line towards Dwarka Sector 21",
+      "Platform 2: Blue Line towards Noida Electronic City / Vaishali",
+      "Platform 3: Yellow Line towards Samaypur Badli",
+      "Platform 4: Yellow Line towards Millennium City Centre Gurugram"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Prepaid Auto & Taxi stands at CP radial exits, Rickshaws at Gate 5/6",
+    "layout": "Underground 3-Level Interchange"
+  },
+  "kashmere gate": {
+    "gates": [
+      "Gate 1: MCD Park, Mori Gate",
+      "Gate 2: Maharaja Aggrasan Park",
+      "Gate 3: Mori Gate Bus Stand",
+      "Gate 4: Shamnath Marg / Ritz Cinema",
+      "Gate 5: Kudasiya Park",
+      "Gate 6: ISBT Departure Road",
+      "Gate 7: Maharana Pratap ISBT Arrival",
+      "Gate 8: ISBT Ticket Counter Link"
+    ],
+    "platforms": [
+      "Platform 1: Red Line towards Rithala (Elevated)",
+      "Platform 2: Red Line towards Shaheed Sthal (Elevated)",
+      "Platform 3: Yellow Line towards Samaypur Badli (Underground)",
+      "Platform 4: Yellow Line towards Millennium City Centre Gurugram (Underground)",
+      "Platform 5: Violet Line towards Raja Nahar Singh (Underground)"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Direct ISBT walkway, DTC Bus Terminal, Auto Stand at Gate 3",
+    "layout": "Mixed Elevated & Underground Triple Interchange"
+  },
+  "new delhi": {
+    "gates": [
+      "Gate 1: New Delhi Railway Station (Ajmeri Gate side)",
+      "Gate 2: New Delhi Railway Station Platforms",
+      "Gate 3: Kamla Market"
+    ],
+    "platforms": [
+      "Platform 1: Yellow Line towards Samaypur Badli",
+      "Platform 2: Yellow Line towards Millennium City Centre Gurugram",
+      "Platform 3: Airport Express towards Dwarka Sector 21"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Railway foot-over-bridge link, Prepaid Auto/Taxi at Ajmeri Gate",
+    "layout": "Underground Interchange (Yellow + Airport Express)"
+  },
+  "hauz khas": {
+    "gates": [
+      "Gate 1: Sarvapriya Vihar (Divyang-friendly)",
+      "Gate 2: Laxman Public School / Institutional Area",
+      "Gate 3: RBI Colony, SDA Market",
+      "Gate 4: Kalu Sarai, IIT Delhi Link"
+    ],
+    "platforms": [
+      "Platform 1: Yellow Line towards Samaypur Badli",
+      "Platform 2: Yellow Line towards Millennium City Centre Gurugram",
+      "Platform 3: Magenta Line towards Janakpuri West",
+      "Platform 4: Magenta Line towards Botanical Garden"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Auto-rickshaws at Gate 1 & 3, E-rickshaws at SDA Market",
+    "layout": "Underground Interchange (Yellow + Magenta)"
+  },
+  "noida sector 18": {
+    "gates": [
+      "Gate 1: Atta Market",
+      "Gate 2: The Great India Place (GIP) Mall & Commercial Area"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line towards Dwarka Sector 21",
+      "Platform 2: Blue Line towards Noida Electronic City"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "City Bus Stand, Shared Auto to Sectors",
+    "layout": "Elevated"
+  },
+  "anand vihar isbt": {
+    "gates": [
+      "Gate 1: ISBT Bus Bays (Arrival/Departure)",
+      "Gate 2: Anand Vihar Railway Station Link",
+      "Gate 3: NH-24 Service Road"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line Branch towards Vaishali",
+      "Platform 2: Blue Line Branch towards Dwarka Sector 21",
+      "Platform 3: Pink Line (planned interchange)"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "ISBT Bus Bay direct walkway, UP Roadways, Auto Stand",
+    "layout": "Elevated Interchange"
+  },
+  "central secretariat": {
+    "gates": [
+      "Gate 1: Janpath / Hyderabad House",
+      "Gate 2: Pandara Road Market",
+      "Gate 3: Rajpath (Kartavya Path) / India Gate side"
+    ],
+    "platforms": [
+      "Platform 1: Yellow Line towards Samaypur Badli",
+      "Platform 2: Yellow Line towards Millennium City Centre Gurugram",
+      "Platform 3: Violet Line towards Kashmere Gate",
+      "Platform 4: Violet Line towards Raja Nahar Singh (Ballabhgarh)"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "DTC Bus Stop on Janpath, Auto-rickshaws near Gate 2",
+    "layout": "Underground Interchange (Yellow + Violet)"
+  },
+  "igi airport": {
+    "gates": [
+      "Gate 1: T3 International Departure Terminal",
+      "Gate 2: T3 Arrival Level Link"
+    ],
+    "platforms": [
+      "Platform 1: Airport Express towards New Delhi",
+      "Platform 2: Airport Express towards Dwarka Sector 21"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Terminal walkway link, Airport Shuttle, Prepaid Taxi",
+    "layout": "Underground Airport Link"
+  },
+  "delhi aerocity": {
+    "gates": [
+      "Gate 1: Aerocity Hospitality District / WorldMark",
+      "Gate 2: IGI Airport T3 Link Road / NH-48"
+    ],
+    "platforms": [
+      "Platform 1: Airport Express towards New Delhi",
+      "Platform 2: Airport Express towards Dwarka Sector 21"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Hotel shuttles, DTC Aerocity Bus Stop, Cab aggregator pickup",
+    "layout": "Elevated Airport Express"
+  },
+  "botanical garden": {
+    "gates": [
+      "Gate 1: Botanical Garden / Noida City Centre Link Road",
+      "Gate 2: Sector 37 / ATS Greens Village"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line towards Dwarka Sector 21",
+      "Platform 2: Blue Line towards Noida Electronic City",
+      "Platform 3: Magenta Line towards Janakpuri West"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Noida City Bus, Auto Stand, E-rickshaw near Gate 1",
+    "layout": "Elevated Interchange (Blue + Magenta)"
+  },
+  "huda city centre": {
+    "gates": [
+      "Gate 1: Sector 29 Market & Leisure Valley",
+      "Gate 2: Max Hospital & Fortis Hospital Link",
+      "Gate 3: Sector 29 Commercial Hub",
+      "Gate 4: IFFCO Chowk Link Road"
+    ],
+    "platforms": [
+      "Platform 1: Yellow Line towards Samaypur Badli"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Gurugram City Bus, Auto-rickshaws, Ola/Uber pickup at Gate 1",
+    "layout": "Elevated Terminal"
+  },
+
+  "versova": {
+    "gates": [
+      "Gate 1: Near 7 Bungalows Bus Depot",
+      "Gate 2: Model Town / Kokilaben Hospital",
+      "Gate 3: Near Bon Bon Shoes, Yari Road"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line 1 towards Ghatkopar"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "BEST Bus Stop, Shared Auto Stand at Gate 1",
+    "layout": "Elevated Terminal"
+  },
+  "andheri": {
+    "gates": [
+      "Gate 1: Nagardas Road",
+      "Gate 2: Ganesh Temple / Vishal Hall",
+      "Gate 3: Andheri Court",
+      "Gate 5A: Near Pay n Park",
+      "Gate 5D: Prasadam Hotel",
+      "Gate 5E: Agarkar Chowk Bus Depot"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line 1 towards Versova",
+      "Platform 2: Blue Line 1 towards Ghatkopar"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Western Railway interchange via skywalk, BEST Bus, Rickshaws",
+    "layout": "Elevated Interchange (Metro + Western Railway)"
+  },
+  "ghatkopar": {
+    "gates": [
+      "Gate 1: Main Entrance, L.B.S. Marg",
+      "Gate 2: Sarvodaya Hospital / Bata Showroom",
+      "Gate 3: Ghatkopar Railway Station foot-overbridge",
+      "Gate 4: Khot Gali Market"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line 1 towards Versova"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Central Railway interchange via FOB, BEST Bus, Auto Stand",
+    "layout": "Elevated Terminal (Metro + Central Railway Interchange)"
+  },
+  "dahisar (east)": {
+    "gates": [
+      "Gate 1: WEH West Side / Dahisar Toll Plaza",
+      "Gate 2: WEH East Side / Ovaripada Link"
+    ],
+    "platforms": [
+      "Platform 1: Yellow Line 2A towards Andheri (West)",
+      "Platform 2: Red Line 7 towards Gundavali"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "BEST Bus stop, Shared Auto Stand outside Gate 1",
+    "layout": "Elevated Double-deck Interchange (Line 2A + Line 7)"
+  },
+  "dadar metro": {
+    "gates": [
+      "Gate A1: Bhandari Hall, Gokhale Road",
+      "Gate A2: Ranade Road, Dadar Central & Western Railway Station",
+      "Gate A3: Shushrusa Hospital, Dadar Chowpatty",
+      "Gate A4: Chhatrapati Shivaji Maharaj Park / Shiv Sena Bhavan"
+    ],
+    "platforms": [
+      "Platform 1: Aqua Line 3 towards Cuffe Parade",
+      "Platform 2: Aqua Line 3 towards Aarey JVLR"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Western & Central Railway interchange, BEST Bus, Auto Stand",
+    "layout": "Underground Island Platform"
+  },
+  "marol naka": {
+    "gates": [
+      "Gate 1: MIDC Industrial Area, Marol Naka Junction",
+      "Gate 2: Andheri-Kurla Road / SEEPZ Link"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line 1 towards Versova",
+      "Platform 2: Blue Line 1 towards Ghatkopar",
+      "Platform 3: Aqua Line 3 towards Cuffe Parade",
+      "Platform 4: Aqua Line 3 towards Aarey JVLR"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "BEST Bus, Auto/Rickshaw Stand",
+    "layout": "Elevated + Underground Interchange (Line 1 + Line 3)"
+  },
+  "chhatrapati shivaji maharaj terminus (csmt)": {
+    "gates": [
+      "Gate 1: CSMT Heritage Building / D.N. Road",
+      "Gate 2: P. D'Mello Road / GPO",
+      "Gate 3: BMC Headquarters, Mahapalika Marg"
+    ],
+    "platforms": [
+      "Platform 1: Aqua Line 3 towards Cuffe Parade",
+      "Platform 2: Aqua Line 3 towards Aarey JVLR"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "Central & Harbour Railway interchange, BEST Bus, Taxi Stand",
+    "layout": "Underground"
+  },
+
+  "nadaprabhu kempegowda station majestic": {
+    "gates": [
+      "Gate A: KSRTC Bus Stand",
+      "Gate A1: KSR Bengaluru City Railway Station (Wheelchair accessible)",
+      "Gate B: Upparpete Police Station / Tank Bund Road",
+      "Gate C: Chikka Lalbagh",
+      "Gate D: BMTC Bus Stand"
+    ],
+    "platforms": [
+      "Platform 1: Purple Line towards Whitefield (Kadugodi)",
+      "Platform 2: Purple Line towards Challaghatta",
+      "Platform 3: Green Line towards Nagasandra",
+      "Platform 4: Green Line towards Silk Institute"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "KSRTC/BMTC Bus Terminal, City Railway Station walkway, Prepaid Auto",
+    "layout": "Underground Triple Interchange (Purple + Green + Railway)"
+  },
+
+  "alandur": {
+    "gates": [
+      "Gate A: Urban Square / DLF Cyber City side",
+      "Gate B: Bus Stop & Main Road",
+      "Gate C: REMO College / DLF Cyber City Link"
+    ],
+    "platforms": [
+      "Platform 1: Blue Line towards Wimco Nagar Depot",
+      "Platform 2: Blue Line towards Airport",
+      "Platform 3: Green Line towards St. Thomas Mount",
+      "Platform 4: Green Line towards Wimco Nagar Depot"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": false, "hasWheelchairAccess": true,
+    "feederService": "MTC Bus, Auto-rickshaws at Gate B",
+    "layout": "Elevated Interchange (Blue + Green)"
+  },
+  "koyambedu": {
+    "gates": [
+      "Gate A: Maduravoyal / Poonamallee, Omni Bus Stand, Lanson Toyota",
+      "Gate B: Koyambedu Omni Bus Stand, CMDA Building",
+      "Gate C: CMRL Depot, Koyambedu Market",
+      "Gate D: Kurungaleeswarar Temple, Post Office",
+      "Gate E: Rohini Theatre, VR Mall"
+    ],
+    "platforms": [
+      "Platform 1: Green Line towards St. Thomas Mount",
+      "Platform 2: Green Line towards Wimco Nagar Depot"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "CMBT Mofussil Bus Terminal walkway, MTC Bus, Auto Stand",
+    "layout": "Elevated"
+  },
+
+  "patna junction": {
+    "gates": [
+      "Gate 1: Patna Railway Station Exit 1 / Mahavir Mandir",
+      "Gate 2: Station Road / Karbigahiya Chowk"
+    ],
+    "platforms": [
+      "Platform 1: Blue Corridor towards Danapur Cantonment",
+      "Platform 2: Blue Corridor towards Khemnichak",
+      "Platform 3: Red Corridor towards Patliputra Bus Terminal"
+    ],
+    "hasElevator": true, "hasEscalator": true, "hasWashroom": true,
+    "hasParking": true, "hasWheelchairAccess": true,
+    "feederService": "Railway Platform direct link, City Bus, Auto Stand at Station Road",
+    "layout": "Underground Hub Interchange (Blue + Red Corridor)"
+  }
+}
